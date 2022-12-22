@@ -1,5 +1,5 @@
 
-public class RequestLog implements Comparable<RequestLog>{
+public class RequestLog implements Comparable<RequestLog> {
 
     private String date;
 

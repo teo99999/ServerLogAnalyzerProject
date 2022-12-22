@@ -4,10 +4,12 @@ public class Main {
 
         LogAnalyzer analyzer = new LogAnalyzer();
 
+        System.out.println("Please provide input. Make sure you have entered command PROCEED as last line then hit enter.");
+
         analyzer.createLogsFromInput();
         analyzer.analyzeRequestLogs();
 
-        analyzer.validateInput();
+
     }
 }
 
