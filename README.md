@@ -8,7 +8,7 @@ Date  Time  IP  Method  Path  Response  Size  Time(ms)
 
 Example valid input:
 
-2022/05/19 02:49:12 127.0.0.1 GET / 200 1314 65
+<br 2022/05/19 02:49:12 127.0.0.1 GET / 200 1314 65 />
 2022/05/19 02:49:35 127.0.0.1 GET /index.html 200 2218 121
 2022/05/19 03:01:06 127.0.0.1 GET /images/sponsered.gif 304 171344 491
 2022/05/19 03:52:36 127.0.0.1 GET /search.php 200 12085 154
